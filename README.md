@@ -186,3 +186,4 @@ module.exports = {
 - `src/contracts` 用来存放编写的`智能合约(smart contract)`，同时 truffle 的 contract 目录指向
 - `src/abis` 用来存放 truffle 编译后的 abis 文件
 - `hooks/index.js` 初始化 `@web3-react` 中的 `Provider` 的请求钩子# polygon_my_contract
+# polygon_my_contract
